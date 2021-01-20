@@ -11,7 +11,7 @@ Repository creates for fast running development process with configuration, whic
 Can be found in [RELEASE_NOTES](RELEASE_NOTES.md).
 
 ## Authors
-* Roman Beskrovnyi - [romankh3](https://github.com/romankh3)
+* Petr Shaidurov - [SwordInStone](https://github.com/SwordInStone)
 
 ## Acknowledgments
 ...
